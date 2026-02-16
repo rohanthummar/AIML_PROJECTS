@@ -1,0 +1,1 @@
+{'name': 'Rohan Thumar', 'marks': [90, 93, 97], 'total': 280, 'average': 93.33333333333333, 'grade': 'A'}
